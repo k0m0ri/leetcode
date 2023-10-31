@@ -11,3 +11,21 @@ leetcodeを解いてスキルアップを目指す
 ## 9. <a href="https://leetcode.com/problems/palindrome-number/">Palindrome Number</a>
 整数が回文になっているかを確認し、回文ならtrue、違うならfalseを返す。<br>
 解いた言語：python
+
+## 13. <a href="https://leetcode.com/problems/roman-to-integer/description/">Roman to Integer</a>
+ローマ数字を整数に変換する。ローマ数字は左から右に大きい数字を表す文字が並べられ、各記号を整数に変換し、加算することで変換する。例えば、27はXXVIIと表し、X+X+V+I+Iで算出する。ただし、以下は減算する。<br>
+IがV or Xの前につく時、IVは4(5 - 1)、IXは9(10 - 1)。<br>
+XがL or Cの前につく時、XLは40(50 - 10)、XCは90(100 - 10)。<br>
+CがD or Mの前につく時、CDは400(500 - 100)、CMは900(1000 - 100)。<br>
+気付かなかったが、右の文字から処理（大小比較）していけばシンプルに実装できる。変換表は以下。<br>
+|Symbol|Value|
+|----|----|
+|I|1|
+|V|5|
+|X|10|
+|L|50|
+|C|100|
+|D|500|
+|M|1000|
+
+解いた言語：python
