@@ -29,3 +29,9 @@ CがD or Mの前につく時、CDは400(500 - 100)、CMは900(1000 - 100)。<br>
 |M|1000|
 
 解いた言語：python
+
+## 14. <a href="https://leetcode.com/problems/longest-common-prefix/description/">Longest Common Prefix
+</a>
+複数の文字列が含まれるリストから最長の共通する接頭文字列を見つける。見つからない場合は、空文字を返す。<br>
+気付かなかったが、リストの内で最短の文字列と最長の文字列を比較すればよかった。<br>
+解いた言語：python
