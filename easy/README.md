@@ -42,6 +42,6 @@ CがD or Mの前につく時、CDは400(500 - 100)、CMは900(1000 - 100)。<br>
 解いた言語：python
 
 ## 22. <a href="https://leetcode.com/problems/merge-two-sorted-lists/description/">Merge Two Sorted Lists</a>
-2つのソート済みの連結リストを1つの連結リスト（ソート済み）に結合する。
-結合した連結リストの先頭ノードを返す。
+2つのソート済みの連結リストを1つの連結リスト（ソート済み）に結合する。<br>
+結合した連結リストの先頭ノードを返す。<br>
 解いた言語：python
