@@ -39,7 +39,9 @@ CがD or Mの前につく時、CDは400(500 - 100)、CMは900(1000 - 100)。<br>
 1. 開き括弧は同じ種類の括弧で閉じなければならない
 1. 開き括弧は正しい順序で閉じなければならない
 1. すべての閉じ括弧には、対応する開き括弧がある
+解いた言語：python
 
 ## 22. <a href="https://leetcode.com/problems/merge-two-sorted-lists/description/">Merge Two Sorted Lists</a>
 2つのソート済みの連結リストを1つの連結リスト（ソート済み）に結合する。
 結合した連結リストの先頭ノードを返す。
+解いた言語：python
