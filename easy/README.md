@@ -45,3 +45,8 @@ CがD or Mの前につく時、CDは400(500 - 100)、CMは900(1000 - 100)。<br>
 2つのソート済みの連結リストを1つの連結リスト（ソート済み）に結合する。<br>
 結合した連結リストの先頭ノードを返す。<br>
 解いた言語：python
+
+## 26. <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">Remove Duplicates from Sorted Array</a>
+昇順にソートされている配列に対して、重複している要素を取り除き、取り除いた配列の要素数 k を返す。<br>
+ただし、配列の最初のk個の要素に、配列に存在した順番で一意な要素が含まれるように、配列を変更し要素の相対順序は同じに保つ。<br>
+解いた言語：python
