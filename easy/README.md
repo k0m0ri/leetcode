@@ -51,7 +51,7 @@ CがD or Mの前につく時、CDは400(500 - 100)、CMは900(1000 - 100)。<br>
 ただし、配列の最初のk個の要素に、配列に存在した順番で一意な要素が含まれるように、配列を変更し要素の相対順序は同じに保つ。<br>
 解いた言語：python
 
-## 27.<a href="https://leetcode.com/problems/remove-element/">Remove Elemetn</a>
+## 27.<a href="https://leetcode.com/problems/remove-element/">Remove Elemet</a>
 整数が格納されている配列 nums と一つの整数 val が与えられ、valと同じ値を持つnumsの要素を取り除き、<br>
 残った要素数 k を返す。取り除くことによって、numsの要素の順番が変わってしまっても問題ない。<br>
 解いた言語：python
